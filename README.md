@@ -1,12 +1,37 @@
-- 👋 Hi, I’m @jeredevio
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# Hi, I'm Jeremy
 
-<!---
-jeredevio/jeredevio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**Aspiring Software Engineer**  
+
+Creating Web Solutions & Automations Today • 🇫🇷🇨🇭
+
+---
+
+## About Me
+
+I'm passionate about transforming ideas into innovative digital solutions. Currently, I focus on building modern, responsive websites and automating workflows to boost business efficiency. I'm actively learning full-stack development, AI, Data and cybersecurity to expand my technical skills.
+My background in 3D and motion design is an extra asset that enriches my creative approach.
+
+---
+
+## What I Do
+
+- **Web Solutions:**  
+  Developing responsive websites using the latest technologies.
+
+- **Automations:**  
+  Streamlining processes with custom automation solutions.
+
+- **Learning & Experimentation:**  
+  Showcasing my learning projects here as I work towards professional-grade solutions.
+
+This GitHub serves as a portfolio for both my ongoing learning projects and future professional work.
+
+---
+
+## Contact
+
+For collaborations or inquiries, feel free to reach out at Jeremydev.contact@gmail.com or connect with me on [Instagram](https://www.instagram.com/jeredev.io/).
+
+---
+
+*Let's innovate together!*
