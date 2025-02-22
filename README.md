@@ -13,7 +13,7 @@ My background in 3D and motion design is an extra asset that enriches my creativ
 
 ---
 
-## What I Do
+## What I Do Now
 
 - **Web Solutions:**  
   Developing responsive websites using the latest technologies.
@@ -24,8 +24,8 @@ My background in 3D and motion design is an extra asset that enriches my creativ
 - **Learning & Experimentation:**  
   Showcasing my learning projects here as I work towards professional-grade solutions.
 
-This GitHub serves as a portfolio for both my ongoing learning projects and future professional work.👇
-Explore all my projects in my [Projets-Hub](https://github.com/jeredevio/Projects-Hub).
+This GitHub serves as a portfolio for both my ongoing learning projects and future professional work.
+Explore all my projects in my ⏩ [Projets-Hub](https://github.com/jeredevio/Projects-Hub).
 
 ---
 
