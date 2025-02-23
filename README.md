@@ -26,7 +26,7 @@ My background in 3D & motion design adds a creative edge 🎨
   Showcasing my learning projects as I work toward professional-grade solutions.
 
 This GitHub serves as a portfolio for both my ongoing learning projects and future professional work.  
-Explore all my projects in my [⏩ Projets-Hub](https://github.com/jeredevio/Projet-Hub).
+Explore all my projects in my [⏩ Projets-Hub](https://github.com/jeredevio/Projects-Hub).
 
 ---
 
