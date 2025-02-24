@@ -1,36 +1,29 @@
 # Hi, I'm Jeremy 🇫🇷🇨🇭  
-**Aspiring Software Engineer 💻**
-
-**Creating Web Solutions & Automations Today**
+**Web Solutions & Automations** 💻  
 
 ---
 
-## About Me
+## 🚀 About Me  
 
-Passionate about transforming ideas into innovative digital solutions 🚀  
-I build modern, responsive websites and automate workflows to boost business efficiency.  
-Actively learning full-stack, AI, Data & Cybersecurity to level up my skills.  
-My background in 3D & motion design adds a creative edge 🎨
-
----
-
-## What I Do Now
-
-- **Web Solutions:**  
-  Developing responsive websites with the latest technologies.
-
-- **Automations:**  
-  Streamlining processes with custom automation solutions.
-
-- **Learning & Experimentation:**  
-  Showcasing my learning projects as I work toward professional-grade solutions.
-
-This GitHub serves as a portfolio for both my ongoing learning projects and future professional work.  
-Explore all my projects in my [⏩ Projets-Hub](https://github.com/jeredevio/Projects-Hub).
+I create **modern websites** and **automation solutions** to improve workflows and enhance efficiency.  
+I’m continuously expanding my skills in **Software ingineering and Full-Stack Development, AI, Data & Cybersecurity** to offer more advanced solutions.  
+With a background in **3D & motion design**, I bring a creative edge to my technical work 🎨.  
 
 ---
 
-## Contact
+## 🔧 What I Do  
+
+- **💻 Web Solutions** → Building responsive, high-performance websites.  
+- **⚙️ Automations** → Streamlining workflows with smart automation tools.  
+- **📈 Optimization** → Enhancing performance & digital efficiency.  
+- **📚 Learning & Experimentation** → Exploring new technologies & documenting my progress.  
+
+This GitHub serves as a **portfolio of my projects**, featuring both technical experiments and practical applications.  
+Explore all my projects in my **[⏩ Projects-Hub](https://github.com/jeredevio/Projects-Hub)**.  
+
+---
+
+## 📩 Contact  
 
 For collaborations or inquiries, reach out at [Jeremydev.contact@gmail.com](mailto:Jeremydev.contact@gmail.com) or connect with me on [Instagram](https://www.instagram.com/jeredev.io/). 🔥
 
