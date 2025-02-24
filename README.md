@@ -1,4 +1,4 @@
-# Hi, I'm Jeremy 🇫🇷🇨🇭  
+# Hi, I'm Jeremy   
 **Web Solutions & Automations** 💻  
 
 ---
@@ -6,7 +6,7 @@
 ## 🚀 About Me  
 
 I create **modern websites** and **automation solutions** to improve workflows and enhance efficiency.  
-I’m continuously expanding my skills in **Software ingineering and Full-Stack Development, AI, Data & Cybersecurity** to offer more advanced solutions.  
+I’m continuously expanding my skills in **Software ingineering & Full-Stack Development** and also in **AI, Data & Cybersecurity** to offer more advanced solutions.  
 With a background in **3D & motion design**, I bring a creative edge to my technical work 🎨.  
 
 ---
