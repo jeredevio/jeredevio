@@ -1,5 +1,5 @@
 # Hi, I'm Jeremy   
-**Web Solutions & Automations** 💻  
+**Web Solutions & Digital Automations** 💻  
 
 ---
 
