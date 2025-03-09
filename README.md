@@ -1,33 +1,35 @@
-# Hi, I'm Jeremy 👋  
-**Exploring Software Engineering, AI, Automation & More…** 💡  
+# 🚀 Hi, I'm Jeremy 👋  
+**Building & optimizing tech solutions with Coding, AI & Automation** 💡  
 
 ---
 
-## 🚀 About Me  
+## 🌟 About Me  
 
-I'm passionate about **tech, Software Engineering & Full-Stack Development**. I build modern solutions to improve efficiency and performance.  
+Passionate about **Software Engineering, Full-Stack Development & Automation**, I create modern, scalable solutions to enhance efficiency and performance.  
 
-With a background in **3D & Motion Design**, I bring a creative edge to my technical work 🎨. Constantly learning & experimenting, I document my progress and projects here.  
+With a background in **3D & Motion Design**, I blend creativity with technical expertise 🎨. Always learning, experimenting, and pushing boundaries, I document my journey here.  
 
 ---
 
 ## 🔧 What I Do  
 
-- **💻 Software, App & Web Development** → Scalable & efficient solutions.  
-- **⚙️ Automation & Scripting** → Workflow optimization & smart tools.  
-- **📈 Tech Experiments** → Exploring AI, Data & Cybersecurity.  
-- **📚 Self-Taught & Building** → Constantly evolving & sharing insights.  
+- **💻 Software & Web Development** → Building scalable & high-performance solutions.  
+- **⚙️ Automation & Scripting** → Creating smart tools to optimize workflows.  
+- **🤖 AI & Data Experiments** → Exploring AI-driven innovations & cybersecurity.  
+- **📚 Self-Taught & Sharing** → Constantly evolving & delivering valuable insights.  
 
-This GitHub is my **tech journey**, featuring real-world projects, experiments & practical applications.  
-Explore all my projects in my **[⏩ Projects-Hub](https://github.com/jeredevio/Projects-Hub)**.  
+💡 This GitHub showcases **real-world projects, experiments & tech innovations**.  
+🚀 **Check out my latest work in the** [⏩ **Projects-Hub**](https://github.com/jeredevio/Projects-Hub).  
 
 ---
 
 ## 📩 Contact  
 
-For inquiries or collaborations, reach out at [Jeremydev.contact@gmail.com](mailto:Jeremydev.contact@gmail.com) or connect with me on [Instagram](https://www.instagram.com/jeredev.io/).  
+For collaborations or inquiries, reach me at 📧 [Jeremydev.contact@gmail.com](mailto:Jeremydev.contact@gmail.com)  
+or connect with me on 📸 [Instagram](https://www.instagram.com/jer.codes/).  
 
 ---
 
-🔥 *Let’s build, learn & innovate together!* 🚀
+🔥 **Let’s build, innovate & automate the future!** 🚀  
+
 
