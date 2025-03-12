@@ -25,8 +25,7 @@ With a background in **3D & Motion Design**, I blend creativity with technical e
 
 ## 📩 Contact  
 
-For collaborations or inquiries, reach me at 📧 [Jeremydev.contact@gmail.com](mailto:Jeremydev.contact@gmail.com)  
-or connect with me on 📸 [Instagram](https://www.instagram.com/jer.codes/).  
+For collaborations or inquiries, reach me at 📧 [Jeremydev.contact@gmail.com](mailto:Jeremydev.contact@gmail.com)    
 
 ---
 
