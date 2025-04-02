@@ -5,7 +5,7 @@
 
 ## 🌟 About Me  
 
-I'm a **software developer & indie builder**, focused on creating modern, scalable solutions for real-world needs.  
+I'm a **self-taught indie developer**, focused on creating modern, scalable solutions for real-world needs.  
 I blend a background in **3D & Motion Design** with tech skills to deliver clean, useful digital products 🎨💻  
 
 Driven by curiosity, I build and iterate every week — sharing the journey here.
@@ -38,7 +38,7 @@ Driven by curiosity, I build and iterate every week — sharing the journey here
 
 ## 📩 Contact  
 
-For collabs, requests or custom projects:  
+For work, requests or custom projects:  
 📧 [jeremydev.contact@gmail.com](mailto:jeremydev.contact@gmail.com)
 
 ---
