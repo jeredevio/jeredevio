@@ -1,4 +1,4 @@
-# 🚀 Hi, I'm Jeremy 👋  
+# Hi, I'm Jeremy 👋  
 **Building smart digital tools with Code, AI & Automation** 💡  
 
 ---
