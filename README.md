@@ -1,34 +1,47 @@
 # 🚀 Hi, I'm Jeremy 👋  
-**Building & optimizing tech solutions with Coding, AI & Automation** 💡  
+**Building smart digital tools with Code, AI & Automation** 💡  
 
 ---
 
 ## 🌟 About Me  
 
-Passionate about **Software Engineering, Full-Stack Development & Automation**, I create modern, scalable solutions to enhance efficiency and performance.  
+I'm a **software developer & indie builder**, focused on creating modern, scalable solutions for real-world needs.  
+I blend a background in **3D & Motion Design** with tech skills to deliver clean, useful digital products 🎨💻  
 
-With a background in **3D & Motion Design**, I blend creativity with technical expertise 🎨. Always learning, experimenting, and pushing boundaries, I document my journey here.  
+Driven by curiosity, I build and iterate every week — sharing the journey here.
 
 ---
 
 ## 🔧 What I Do  
 
-- **💻 Software & Web Development** → Building scalable & high-performance solutions.  
-- **⚙️ Automation & Scripting** → Creating smart tools to optimize workflows.  
-- **🤖 AI & Data Experiments** → Exploring AI-driven innovations & cybersecurity.  
-- **📚 Self-Taught & Sharing** → Constantly evolving & delivering valuable insights.  
+- 💻 **Web & App Development** – Building clean, high-performance interfaces.  
+- ⚙️ **Automation & Custom Scripts** – Saving time with clever tools.  
+- 🤖 **AI Experiments & Product Prototypes** – Exploring new tech to solve problems.  
+- 📦 **Mini SaaS & Micro-Products** – Simple tools that deliver value.  
 
-💡 This GitHub showcases **real-world projects, experiments & tech innovations**.  
-🚀 **Check out my latest work in the** [⏩ **Projects-Hub**](https://github.com/jeredevio/Projects-Hub).  
+💡 On this GitHub: **real projects, smart tools & technical deep dives.**
+
+---
+
+## 🛠️ Currently Building
+
+- [portfolio-landing-page](https://github.com/tonpseudo/portfolio-landing-page) – responsive showcase website  
+
+---
+
+## 📡 Follow the Journey
+
+- 🔗 [LinkedIn (FR)](https://www.linkedin.com/in/jeremy-canal-03171922b/) – I share weekly progress & product drops  
+- 🌐 [Public Notion](https://notion.so/...) – portfolio, tools, services  
 
 ---
 
 ## 📩 Contact  
 
-For collaborations or inquiries, reach me at 📧 [Jeremydev.contact@gmail.com](mailto:Jeremydev.contact@gmail.com)    
+For collabs, requests or custom projects:  
+📧 [jeremydev.contact@gmail.com](mailto:jeremydev.contact@gmail.com)
 
 ---
 
-🔥 **Let’s build, innovate & automate the future!** 🚀  
-
-
+🔥 Building in public. Solving real problems.  
+**Let’s build, automate & grow the future.** 🚀  
