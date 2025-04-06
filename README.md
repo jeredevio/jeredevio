@@ -32,7 +32,6 @@ Driven by curiosity, I build and iterate every week — sharing the journey here
 ## 📡 Follow the Journey
 
 - 🔗 [LinkedIn (FR)](https://www.linkedin.com/in/jeremy-canal-03171922b/) – I share weekly progress & product drops  
-- 🌐 [Public Notion](https://notion.so/...) – portfolio, tools, services  
 
 ---
 
