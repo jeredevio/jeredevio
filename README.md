@@ -35,7 +35,7 @@ No clients, no fluff — just code and consistency.
 ## 📡 Follow the Journey
 
 - 🔗 [LinkedIn (FR)](https://www.linkedin.com/in/jeremy-canal-03171922b/)  
-- 🔗 [X / Twitter](https://twitter.com/jerecodes_)  
+- 🔗 [X / Twitter](https://twitter.com/jerecodes)  
 - 🔗 [Instagram](https://instagram.com/jerecodes_)
 
 I share progress daily — what I build, what I learn, and how I grow.
