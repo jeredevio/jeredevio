@@ -1,46 +1,52 @@
 # Hi, I'm Jeremy 👋  
-**Building smart digital tools with Code, AI & Automation** 💡  
+**Indie full stack developer — building tools, apps & SaaS solo** 💻
 
 ---
 
-## 🌟 About Me  
+## 🧠 About Me
 
-I'm a **self-taught indie developer**, focused on creating modern, scalable solutions for real-world needs.  
-I blend a background in **3D & Motion Design** with tech skills to deliver clean, useful digital products 🎨💻  
+I'm a self-taught developer with a creative background in 3D and motion design.  
+Now focused on building clean, useful and scalable digital products — solo.  
 
-Driven by curiosity, I build and iterate every week — sharing the journey here.
+Learning by doing, shipping one product at a time.  
+From small tools to full apps and SaaS.  
+No clients, no fluff — just code and consistency.
 
----
-
-## 🔧 What I Do  
-
-- 💻 **Web & App Development** – Building clean, high-performance interfaces.  
-- ⚙️ **Automation & Custom Scripts** – Saving time with clever tools.  
-- 🤖 **AI Experiments & Product Prototypes** – Exploring new tech to solve problems.  
-- 📦 **Mini SaaS & Micro-Products** – Simple tools that deliver value.  
-
-💡 On this GitHub: **real projects, smart tools & technical deep dives.**
+📍 Started from €350 and a laptop.  
+🎯 Goal: reach **€40K/month in 365 days** through real, recurring products.
 
 ---
 
-## 🛠️ Currently Building
+## 🔧 What I Build
 
-- [portfolio-landing-page](https://github.com/tonpseudo/portfolio-landing-page) – responsive showcase website  
+- 🌐 **Web & App Interfaces** – Fast, responsive, clean UX  
+- ⚙️ **Automation Scripts** – Save time and streamline tasks  
+- 🤖 **AI-Powered Tools** – Small experiments with smart impact  
+- 📦 **Micro-SaaS & Digital Products** – Focused, useful, and accessible
+
+---
+
+## 🚧 Currently Building
+
+- [coffee-time](https://jeredevio.github.io/coffee-website-01) – demo site for a fictional local business  
 
 ---
 
 ## 📡 Follow the Journey
 
-- 🔗 [LinkedIn (FR)](https://www.linkedin.com/in/jeremy-canal-03171922b/) – I share weekly progress & product drops  
+- 🔗 [LinkedIn (FR)](https://www.linkedin.com/in/jeremy-canal-03171922b/)  
+- 🔗 [X / Twitter](https://twitter.com/jerecodes_)  
+- 🔗 [Instagram](https://instagram.com/jerecodes_)
+
+I share progress daily — what I build, what I learn, and how I grow.
 
 ---
 
-## 📩 Contact  
+## 📬 Contact  
 
-For work, requests or custom projects:  
 📧 [jeremydev.contact@gmail.com](mailto:jeremydev.contact@gmail.com)
 
 ---
 
-🔥 Building in public. Solving real problems.  
-**Let’s build, automate & grow the future.** 🚀  
+> **Build. Learn. Improve. Repeat.**  
+> One product at a time — aiming high, staying focused.
